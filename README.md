@@ -3,6 +3,7 @@
 This is a personal portfolio website built using **HTML** and **CSS** to showcase my journey into tech, educational background, skills, interests, and personal projects.
 
 ##  Live Demo
+[View Live Site](https://metrinewairimu.github.io/july2025Cohort-Hackathon-1/)
 
 
 
